@@ -1,0 +1,10 @@
+{
+  "name": "@scope/p1",
+  "version": "1.0.1",
+  "scripts": {
+    "install": "cross-env DEBUG=* node"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
